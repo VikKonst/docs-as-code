@@ -39,3 +39,5 @@
 ----
 include::post.puml[]
 ----
+
+xref:../index.adoc[Назад]
